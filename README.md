@@ -60,7 +60,7 @@ bash
 
 Copy code
 
-git clone https://github.com/parv-meht08/Project/tree/main/React%20Projects/TODO%20App
+git clone https://github.com/parv-meht08/TODO-App.git
 
 Navigate to the project directory
 
